@@ -47,3 +47,9 @@ a {
 .logo-container img {
     height: 40px;
 }
+
+#close-windows {
+    position: fixed;
+    top: 5px;
+    right: 5px;
+}

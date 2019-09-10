@@ -1,0 +1,20 @@
+{
+  "startup_app": {
+      "name": "OpenfinPOC-child",
+      "url": "http://localhost:5555/index.html",
+      "uuid": "OpenfinPOC-child",
+      "applicationIcon": "http://localhost:5555/favicon.ico",
+      "autoShow": true,
+      "frame": false
+  },
+  "runtime": {
+      "arguments": "",
+      "version": "12.69.43.22"
+  },
+  "shortcut": {
+      "company": "OpenFin",
+      "description": "Openfin POC",
+      "icon": "http://localhost:5555/favicon.ico",
+      "name": "Openfin POC"
+  }
+}

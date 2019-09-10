@@ -5,11 +5,12 @@
         "uuid": "OpenfinPOC",
         "applicationIcon": "http://localhost:5555/favicon.ico",
         "autoShow": true,
-        "saveWindowState": true
+        "defaultCentered": true,
+        "frame": false
     },
     "runtime": {
         "arguments": "",
-        "version": "stable"
+        "version": "12.69.43.22"
     },
     "shortcut": {
         "company": "OpenFin",
